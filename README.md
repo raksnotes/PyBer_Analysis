@@ -1,6 +1,6 @@
 # PyBer_Analysis
 ## Purpose: Create summary of ride data by city 
-### extra comments are from instructions/hint from challenge instructions 
+### my extra comments are from instructions/hint from challenge instructions 
 
 ![Screenshot (899)](https://user-images.githubusercontent.com/116187123/209051824-6010a404-af31-4a67-a20d-ecad25f64313.png)
 ![Screenshot (900)](https://user-images.githubusercontent.com/116187123/209051855-be685ad0-3853-447d-a4c2-d97fb34fab9c.png)
