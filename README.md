@@ -27,7 +27,7 @@
 
 # Summary 
 
-One thing I would recommend is that people who live in rural areas have very little access to resources for healthy long-term living which would include health care and also it is more probable that people do live with little to no income, so I think that lowering fares for rural areas would be helpful. 
+One thing I would recommend is that people who live in rural areas have very little access to resources for healthy long-term living which would include health care and also it is more probable that people who live in rural areas live with little to no income, so I think that lowering fares for rural areas would be helpful. 
 
 
 
